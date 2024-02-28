@@ -1,6 +1,6 @@
 const date=prompt("Enter date (eg. 12)");
 const month=prompt("Enter Month (eg. jan)");
-const year=prompt("Enter year (eg. 2012");
+const year=prompt("Enter year (eg. 2012)");
 const time=prompt("Enter time (eg. 01:05 AM)");
 // const endDate="28 February 2025 01:05 AM"; 
 const endDate=`${date} ${month} ${year} ${time}`;
